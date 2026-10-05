@@ -1,0 +1,16 @@
+{
+  "exported_at_utc": "2026-10-05T15:40:17.848129+00:00",
+  "record_counts": {
+    "resources": 22,
+    "projects": 13,
+    "months": 9,
+    "allocations": 49,
+    "capacity_adjustments": 0,
+    "settings": 1,
+    "weekly_allocations": 42
+  },
+  "week": "2026-10-05",
+  "weekly_entries": 34,
+  "weekly_hours": 271.5,
+  "deployment_status": "Azure migration required; not directly deployable"
+}

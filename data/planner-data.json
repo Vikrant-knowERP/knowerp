@@ -1,0 +1,1276 @@
+{
+  "resources": [
+    {
+      "id": "R001",
+      "name": "Simon",
+      "role": "Delivery",
+      "location": "",
+      "weekly_hours": 40,
+      "goal": 0.75,
+      "active": 1,
+      "eligible": 1,
+      "notes": "Capacity assumed at 40 hours per week."
+    },
+    {
+      "id": "R002",
+      "name": "Adam",
+      "role": "Delivery",
+      "location": "",
+      "weekly_hours": 40,
+      "goal": 0.75,
+      "active": 1,
+      "eligible": 1,
+      "notes": "Capacity assumed at 40 hours per week."
+    },
+    {
+      "id": "R003",
+      "name": "Vicky",
+      "role": "Delivery",
+      "location": "",
+      "weekly_hours": 40,
+      "goal": 0.75,
+      "active": 1,
+      "eligible": 1,
+      "notes": "Capacity assumed at 40 hours per week."
+    },
+    {
+      "id": "R004",
+      "name": "Cathi",
+      "role": "Delivery",
+      "location": "",
+      "weekly_hours": 40,
+      "goal": 0.75,
+      "active": 1,
+      "eligible": 1,
+      "notes": "Capacity assumed at 40 hours per week."
+    },
+    {
+      "id": "R005",
+      "name": "Wamik",
+      "role": "Delivery",
+      "location": "",
+      "weekly_hours": 40,
+      "goal": 0.75,
+      "active": 1,
+      "eligible": 1,
+      "notes": "Capacity assumed at 40 hours per week."
+    },
+    {
+      "id": "R006",
+      "name": "Sandeep",
+      "role": "Delivery",
+      "location": "",
+      "weekly_hours": 40,
+      "goal": 0.75,
+      "active": 1,
+      "eligible": 1,
+      "notes": "Capacity assumed at 40 hours per week."
+    },
+    {
+      "id": "R007",
+      "name": "Stefano",
+      "role": "Delivery",
+      "location": "",
+      "weekly_hours": 40,
+      "goal": 0.75,
+      "active": 1,
+      "eligible": 1,
+      "notes": "Capacity assumed at 40 hours per week."
+    },
+    {
+      "id": "R008",
+      "name": "Hail",
+      "role": "Delivery",
+      "location": "",
+      "weekly_hours": 40,
+      "goal": 0.75,
+      "active": 1,
+      "eligible": 1,
+      "notes": "Capacity assumed at 40 hours per week."
+    },
+    {
+      "id": "R009",
+      "name": "NEW BC",
+      "role": "Delivery",
+      "location": "",
+      "weekly_hours": 40,
+      "goal": 0.75,
+      "active": 1,
+      "eligible": 0,
+      "notes": "Recruiting placeholder."
+    },
+    {
+      "id": "R010",
+      "name": "Perry",
+      "role": "Delivery",
+      "location": "",
+      "weekly_hours": 20,
+      "goal": 0.75,
+      "active": 1,
+      "eligible": 1,
+      "notes": "Capacity assumed at 40 hours per week."
+    },
+    {
+      "id": "R011",
+      "name": "Vamshi",
+      "role": "Delivery",
+      "location": "",
+      "weekly_hours": 40,
+      "goal": 0.75,
+      "active": 1,
+      "eligible": 1,
+      "notes": "Capacity assumed at 40 hours per week."
+    },
+    {
+      "id": "R012",
+      "name": "Vashudha",
+      "role": "Delivery",
+      "location": "",
+      "weekly_hours": 40,
+      "goal": 0.75,
+      "active": 1,
+      "eligible": 1,
+      "notes": "Capacity assumed at 40 hours per week."
+    },
+    {
+      "id": "R013",
+      "name": "Arun",
+      "role": "Delivery",
+      "location": "",
+      "weekly_hours": 40,
+      "goal": 0.75,
+      "active": 1,
+      "eligible": 1,
+      "notes": "Capacity assumed at 40 hours per week."
+    },
+    {
+      "id": "R014",
+      "name": "Sanjoy",
+      "role": "Delivery",
+      "location": "",
+      "weekly_hours": 40,
+      "goal": 0.75,
+      "active": 1,
+      "eligible": 1,
+      "notes": "Capacity assumed at 40 hours per week."
+    },
+    {
+      "id": "R015",
+      "name": "Mahesh",
+      "role": "Delivery",
+      "location": "",
+      "weekly_hours": 40,
+      "goal": 0.75,
+      "active": 1,
+      "eligible": 1,
+      "notes": "Capacity assumed at 40 hours per week."
+    },
+    {
+      "id": "R016",
+      "name": "Lance",
+      "role": "Delivery",
+      "location": "",
+      "weekly_hours": 40,
+      "goal": 0.75,
+      "active": 1,
+      "eligible": 1,
+      "notes": "Capacity assumed at 40 hours per week."
+    },
+    {
+      "id": "R017",
+      "name": "Samuta",
+      "role": "Delivery",
+      "location": "",
+      "weekly_hours": 40,
+      "goal": 0.75,
+      "active": 1,
+      "eligible": 1,
+      "notes": "Capacity assumed at 40 hours per week."
+    },
+    {
+      "id": "R018",
+      "name": "Shameer",
+      "role": "Delivery",
+      "location": "",
+      "weekly_hours": 40,
+      "goal": 0.75,
+      "active": 1,
+      "eligible": 1,
+      "notes": "Capacity assumed at 40 hours per week."
+    },
+    {
+      "id": "R019",
+      "name": "Unassigned row 10",
+      "role": "Delivery",
+      "location": "",
+      "weekly_hours": 40,
+      "goal": 0.75,
+      "active": 1,
+      "eligible": 0,
+      "notes": "Name absent in September screenshot. Confirm resource."
+    },
+    {
+      "id": "R020",
+      "name": "Unassigned row 21",
+      "role": "Delivery",
+      "location": "",
+      "weekly_hours": 40,
+      "goal": 0.75,
+      "active": 1,
+      "eligible": 0,
+      "notes": "Name absent in September screenshot. Confirm resource."
+    },
+    {
+      "id": "import-resource-kartheek",
+      "name": "Kartheek",
+      "role": "",
+      "location": "",
+      "weekly_hours": 40,
+      "goal": 0.75,
+      "active": 1,
+      "eligible": 1,
+      "notes": "Added from KnowERP_Utilization_WE 10102026.xlsx. Source utilization uses 40-hour weekly capacity; default 75% planning goal."
+    },
+    {
+      "id": "import-resource-vikrant",
+      "name": "Vikrant",
+      "role": "",
+      "location": "",
+      "weekly_hours": 40,
+      "goal": 0.75,
+      "active": 1,
+      "eligible": 1,
+      "notes": "Added from KnowERP_Utilization_WE 10102026.xlsx. Source utilization uses 40-hour weekly capacity; default 75% planning goal."
+    }
+  ],
+  "projects": [
+    {
+      "id": "3c35cec2-5df5-4582-ae6c-bf8f26396c16",
+      "name": "Infors",
+      "client": "",
+      "manager": "",
+      "start_date": "2026-10-01",
+      "end_date": "2026-10-16",
+      "budget": 40,
+      "rate": null,
+      "billable": 1,
+      "status": "Active",
+      "notes": ""
+    },
+    {
+      "id": "432afd08-5446-4d9b-99e8-d7c51e6292c5",
+      "name": "Macrobond",
+      "client": "",
+      "manager": "",
+      "start_date": "2026-09-29",
+      "end_date": "2026-10-09",
+      "budget": 40,
+      "rate": null,
+      "billable": 1,
+      "status": "Active",
+      "notes": ""
+    },
+    {
+      "id": "P001",
+      "name": "EASTERN",
+      "client": "",
+      "manager": "",
+      "start_date": "2026-09-14",
+      "end_date": "2026-11-27",
+      "budget": 300,
+      "rate": null,
+      "billable": 1,
+      "status": "Active",
+      "notes": "September reference. Dates and budgets need confirmation."
+    },
+    {
+      "id": "P002",
+      "name": "JMP",
+      "client": "",
+      "manager": "",
+      "start_date": "2026-01-02",
+      "end_date": "2027-01-01",
+      "budget": 200,
+      "rate": null,
+      "billable": 1,
+      "status": "Active",
+      "notes": "September reference. Dates and budgets need confirmation."
+    },
+    {
+      "id": "P003",
+      "name": "AsuraExt Spt",
+      "client": "",
+      "manager": "",
+      "start_date": "2026-08-03",
+      "end_date": "2027-07-30",
+      "budget": 20,
+      "rate": null,
+      "billable": 1,
+      "status": "Active",
+      "notes": "September reference. Dates and budgets need confirmation."
+    },
+    {
+      "id": "P004",
+      "name": "Effiency",
+      "client": "",
+      "manager": "",
+      "start_date": "2026-07-02",
+      "end_date": "2026-12-31",
+      "budget": 300,
+      "rate": null,
+      "billable": 1,
+      "status": "Active",
+      "notes": "September reference. Dates and budgets need confirmation."
+    },
+    {
+      "id": "P005",
+      "name": "Yakult",
+      "client": "",
+      "manager": "",
+      "start_date": null,
+      "end_date": null,
+      "budget": 400,
+      "rate": null,
+      "billable": 1,
+      "status": "Active",
+      "notes": "September reference. Dates and budgets need confirmation."
+    },
+    {
+      "id": "P006",
+      "name": "BC Gains",
+      "client": "",
+      "manager": "",
+      "start_date": null,
+      "end_date": null,
+      "budget": 100,
+      "rate": null,
+      "billable": 1,
+      "status": "Active",
+      "notes": "September reference. Dates and budgets need confirmation."
+    },
+    {
+      "id": "P007",
+      "name": "Simple Support",
+      "client": "",
+      "manager": "",
+      "start_date": null,
+      "end_date": null,
+      "budget": null,
+      "rate": null,
+      "billable": 1,
+      "status": "Active",
+      "notes": "September reference. Dates and budgets need confirmation."
+    },
+    {
+      "id": "P008",
+      "name": "OPC - BC",
+      "client": "",
+      "manager": "",
+      "start_date": null,
+      "end_date": null,
+      "budget": 100,
+      "rate": null,
+      "billable": 1,
+      "status": "Active",
+      "notes": "September reference. Dates and budgets need confirmation."
+    },
+    {
+      "id": "P009",
+      "name": "Interpipe",
+      "client": "",
+      "manager": "",
+      "start_date": "2026-09-14",
+      "end_date": "2026-10-23",
+      "budget": 160,
+      "rate": null,
+      "billable": 1,
+      "status": "Active",
+      "notes": "September reference. Dates and budgets need confirmation."
+    },
+    {
+      "id": "a33366e8-5877-4fb3-b808-c04dd1808fb7",
+      "name": "Buttara",
+      "client": "",
+      "manager": "",
+      "start_date": "2026-10-01",
+      "end_date": "2026-10-30",
+      "budget": 60,
+      "rate": null,
+      "billable": 1,
+      "status": "Active",
+      "notes": ""
+    },
+    {
+      "id": "import-advanced-turf-20261005",
+      "name": "Advanced Turf",
+      "client": "",
+      "manager": "",
+      "start_date": "2026-08-03",
+      "end_date": "2026-10-30",
+      "budget": 120,
+      "rate": null,
+      "billable": 1,
+      "status": "Active",
+      "notes": "Imported from KnowERP_Utilization_WE 10102026.xlsx. Development phase. Project dates were not supplied and need confirmation."
+    }
+  ],
+  "months": [
+    {
+      "month": "2026-01"
+    },
+    {
+      "month": "2026-07"
+    },
+    {
+      "month": "2026-08"
+    },
+    {
+      "month": "2026-09"
+    },
+    {
+      "month": "2026-10"
+    },
+    {
+      "month": "2026-11"
+    },
+    {
+      "month": "2026-12"
+    },
+    {
+      "month": "2027-01"
+    },
+    {
+      "month": "2027-07"
+    }
+  ],
+  "allocations": [
+    {
+      "id": "A1",
+      "resource_id": "R001",
+      "project_id": "P004",
+      "month": "2026-09",
+      "hours": 12,
+      "actual": null,
+      "notes": "Imported September screenshot. Weekly hours are estimates."
+    },
+    {
+      "id": "A2",
+      "resource_id": "R001",
+      "project_id": "P008",
+      "month": "2026-09",
+      "hours": 20,
+      "actual": null,
+      "notes": "Imported September screenshot. Weekly hours are estimates."
+    },
+    {
+      "id": "A3",
+      "resource_id": "R002",
+      "project_id": "P001",
+      "month": "2026-09",
+      "hours": 60,
+      "actual": null,
+      "notes": "Imported September screenshot. Weekly hours are estimates."
+    },
+    {
+      "id": "A4",
+      "resource_id": "R002",
+      "project_id": "P006",
+      "month": "2026-09",
+      "hours": 20,
+      "actual": null,
+      "notes": "Imported September screenshot. Weekly hours are estimates."
+    },
+    {
+      "id": "A5",
+      "resource_id": "R003",
+      "project_id": "P004",
+      "month": "2026-09",
+      "hours": 60,
+      "actual": null,
+      "notes": "Imported September screenshot. Weekly hours are estimates."
+    },
+    {
+      "id": "A6",
+      "resource_id": "R003",
+      "project_id": "P005",
+      "month": "2026-09",
+      "hours": 40,
+      "actual": null,
+      "notes": "Imported September screenshot. Weekly hours are estimates."
+    },
+    {
+      "id": "A7",
+      "resource_id": "R003",
+      "project_id": "P006",
+      "month": "2026-09",
+      "hours": 20,
+      "actual": null,
+      "notes": "Imported September screenshot. Weekly hours are estimates."
+    },
+    {
+      "id": "A8",
+      "resource_id": "R004",
+      "project_id": "P002",
+      "month": "2026-09",
+      "hours": 40,
+      "actual": null,
+      "notes": "Imported September screenshot. Weekly hours are estimates."
+    },
+    {
+      "id": "A9",
+      "resource_id": "R004",
+      "project_id": "P004",
+      "month": "2026-09",
+      "hours": 80,
+      "actual": null,
+      "notes": "Imported September screenshot. Weekly hours are estimates."
+    },
+    {
+      "id": "A10",
+      "resource_id": "R005",
+      "project_id": "P002",
+      "month": "2026-09",
+      "hours": 10,
+      "actual": null,
+      "notes": "Imported September screenshot. Weekly hours are estimates."
+    },
+    {
+      "id": "A11",
+      "resource_id": "R005",
+      "project_id": "P004",
+      "month": "2026-09",
+      "hours": 40,
+      "actual": null,
+      "notes": "Imported September screenshot. Weekly hours are estimates."
+    },
+    {
+      "id": "A12",
+      "resource_id": "R006",
+      "project_id": "P001",
+      "month": "2026-09",
+      "hours": 20,
+      "actual": null,
+      "notes": "Imported September screenshot. Weekly hours are estimates."
+    },
+    {
+      "id": "A13",
+      "resource_id": "R006",
+      "project_id": "P003",
+      "month": "2026-09",
+      "hours": 40,
+      "actual": null,
+      "notes": "Imported September screenshot. Weekly hours are estimates."
+    },
+    {
+      "id": "A14",
+      "resource_id": "R006",
+      "project_id": "P004",
+      "month": "2026-09",
+      "hours": 40,
+      "actual": null,
+      "notes": "Imported September screenshot. Weekly hours are estimates."
+    },
+    {
+      "id": "A15",
+      "resource_id": "R006",
+      "project_id": "P008",
+      "month": "2026-09",
+      "hours": 40,
+      "actual": null,
+      "notes": "Imported September screenshot. Weekly hours are estimates."
+    },
+    {
+      "id": "A16",
+      "resource_id": "R008",
+      "project_id": "P007",
+      "month": "2026-09",
+      "hours": 20,
+      "actual": null,
+      "notes": "Imported September screenshot. Weekly hours are estimates."
+    },
+    {
+      "id": "A19",
+      "resource_id": "R010",
+      "project_id": "P001",
+      "month": "2026-09",
+      "hours": 20,
+      "actual": null,
+      "notes": "Imported September screenshot. Weekly hours are estimates."
+    },
+    {
+      "id": "A20",
+      "resource_id": "R010",
+      "project_id": "P004",
+      "month": "2026-09",
+      "hours": 20,
+      "actual": null,
+      "notes": "Imported September screenshot. Weekly hours are estimates."
+    },
+    {
+      "id": "A21",
+      "resource_id": "R010",
+      "project_id": "P005",
+      "month": "2026-09",
+      "hours": 20,
+      "actual": null,
+      "notes": "Imported September screenshot. Weekly hours are estimates."
+    },
+    {
+      "id": "A22",
+      "resource_id": "R010",
+      "project_id": "P008",
+      "month": "2026-09",
+      "hours": 10,
+      "actual": null,
+      "notes": "Imported September screenshot. Weekly hours are estimates."
+    },
+    {
+      "id": "A23",
+      "resource_id": "R012",
+      "project_id": "P009",
+      "month": "2026-09",
+      "hours": 80,
+      "actual": null,
+      "notes": "Imported September screenshot. Weekly hours are estimates."
+    },
+    {
+      "id": "A24",
+      "resource_id": "R014",
+      "project_id": "P001",
+      "month": "2026-09",
+      "hours": 40,
+      "actual": null,
+      "notes": "Imported September screenshot. Weekly hours are estimates."
+    },
+    {
+      "id": "A25",
+      "resource_id": "R014",
+      "project_id": "P005",
+      "month": "2026-09",
+      "hours": 100,
+      "actual": null,
+      "notes": "Imported September screenshot. Weekly hours are estimates."
+    },
+    {
+      "id": "A26",
+      "resource_id": "R014",
+      "project_id": "P006",
+      "month": "2026-09",
+      "hours": 40,
+      "actual": null,
+      "notes": "Imported September screenshot. Weekly hours are estimates."
+    },
+    {
+      "id": "A27",
+      "resource_id": "R014",
+      "project_id": "P008",
+      "month": "2026-09",
+      "hours": 80,
+      "actual": null,
+      "notes": "Imported September screenshot. Weekly hours are estimates."
+    },
+    {
+      "id": "A28",
+      "resource_id": "R015",
+      "project_id": "P001",
+      "month": "2026-09",
+      "hours": 80,
+      "actual": null,
+      "notes": "Imported September screenshot. Weekly hours are estimates."
+    },
+    {
+      "id": "A29",
+      "resource_id": "R015",
+      "project_id": "P005",
+      "month": "2026-09",
+      "hours": 80,
+      "actual": null,
+      "notes": "Imported September screenshot. Weekly hours are estimates."
+    },
+    {
+      "id": "A30",
+      "resource_id": "R018",
+      "project_id": "P002",
+      "month": "2026-09",
+      "hours": 80,
+      "actual": null,
+      "notes": "Imported September screenshot. Weekly hours are estimates."
+    },
+    {
+      "id": "A17",
+      "resource_id": "R019",
+      "project_id": "P005",
+      "month": "2026-09",
+      "hours": 40,
+      "actual": null,
+      "notes": "Imported September screenshot. Weekly hours are estimates."
+    },
+    {
+      "id": "A18",
+      "resource_id": "R019",
+      "project_id": "P008",
+      "month": "2026-09",
+      "hours": 80,
+      "actual": null,
+      "notes": "Imported September screenshot. Weekly hours are estimates."
+    },
+    {
+      "id": "A31",
+      "resource_id": "R020",
+      "project_id": "P008",
+      "month": "2026-09",
+      "hours": 60,
+      "actual": null,
+      "notes": "Imported September screenshot. Weekly hours are estimates."
+    },
+    {
+      "id": "f70b306e-977c-4496-9115-8a41b8c44641",
+      "resource_id": "R001",
+      "project_id": "3c35cec2-5df5-4582-ae6c-bf8f26396c16",
+      "month": "2026-10",
+      "hours": 20,
+      "actual": null,
+      "notes": ""
+    },
+    {
+      "id": "b99c6e8c-667d-41f6-8088-0621c3c50889",
+      "resource_id": "R001",
+      "project_id": "432afd08-5446-4d9b-99e8-d7c51e6292c5",
+      "month": "2026-10",
+      "hours": 20,
+      "actual": null,
+      "notes": ""
+    },
+    {
+      "id": "8b662288-bb2a-483f-a383-dd75d561fa42",
+      "resource_id": "R001",
+      "project_id": "P004",
+      "month": "2026-10",
+      "hours": 80,
+      "actual": null,
+      "notes": ""
+    },
+    {
+      "id": "ed83b6ec-37e1-43de-a607-5a213778cb56",
+      "resource_id": "R002",
+      "project_id": "a33366e8-5877-4fb3-b808-c04dd1808fb7",
+      "month": "2026-10",
+      "hours": 10,
+      "actual": null,
+      "notes": ""
+    },
+    {
+      "id": "cec663ae-ddfb-4ccc-9a67-dc02bd2802bc",
+      "resource_id": "R003",
+      "project_id": "3c35cec2-5df5-4582-ae6c-bf8f26396c16",
+      "month": "2026-10",
+      "hours": 6,
+      "actual": null,
+      "notes": ""
+    },
+    {
+      "id": "42e6e6d7-94e7-40f8-a8f6-21f5eea4c03b",
+      "resource_id": "R003",
+      "project_id": "432afd08-5446-4d9b-99e8-d7c51e6292c5",
+      "month": "2026-10",
+      "hours": 6,
+      "actual": null,
+      "notes": ""
+    },
+    {
+      "id": "a0b2255f-4555-4236-8520-fe088bf8dabd",
+      "resource_id": "R003",
+      "project_id": "P001",
+      "month": "2026-10",
+      "hours": 40,
+      "actual": null,
+      "notes": ""
+    },
+    {
+      "id": "ed90c50d-9731-4cf7-8dd6-794e63f8481a",
+      "resource_id": "R003",
+      "project_id": "P002",
+      "month": "2026-10",
+      "hours": 20,
+      "actual": null,
+      "notes": ""
+    },
+    {
+      "id": "b829adf8-d8a7-49e6-8d3b-37797b8beea2",
+      "resource_id": "R003",
+      "project_id": "P004",
+      "month": "2026-10",
+      "hours": 40,
+      "actual": null,
+      "notes": ""
+    },
+    {
+      "id": "426f20c9-5e43-43aa-a237-d581af168f0b",
+      "resource_id": "R003",
+      "project_id": "P005",
+      "month": "2026-10",
+      "hours": 40,
+      "actual": null,
+      "notes": ""
+    },
+    {
+      "id": "03032ce5-b872-4d9d-b6e0-b5737fdd381c",
+      "resource_id": "R003",
+      "project_id": "P006",
+      "month": "2026-10",
+      "hours": 10,
+      "actual": null,
+      "notes": ""
+    },
+    {
+      "id": "822d536a-e974-463d-9542-38a702c2efd9",
+      "resource_id": "R003",
+      "project_id": "P008",
+      "month": "2026-10",
+      "hours": 10,
+      "actual": null,
+      "notes": ""
+    },
+    {
+      "id": "4ef71660-3afd-4b93-a247-f93d543ac04d",
+      "resource_id": "R004",
+      "project_id": "P002",
+      "month": "2026-10",
+      "hours": 40,
+      "actual": null,
+      "notes": ""
+    },
+    {
+      "id": "f0119ace-9056-4f25-b820-40bdfb5eb3ee",
+      "resource_id": "R004",
+      "project_id": "P004",
+      "month": "2026-10",
+      "hours": 60,
+      "actual": null,
+      "notes": ""
+    },
+    {
+      "id": "3c5efa25-e239-4aad-8e91-e615040833c8",
+      "resource_id": "R005",
+      "project_id": "P002",
+      "month": "2026-10",
+      "hours": 40,
+      "actual": null,
+      "notes": ""
+    },
+    {
+      "id": "3675a4be-b598-4419-8ba2-b07bf1e5b736",
+      "resource_id": "R005",
+      "project_id": "P004",
+      "month": "2026-10",
+      "hours": 40,
+      "actual": null,
+      "notes": ""
+    },
+    {
+      "id": "eb67c958-753d-4e49-a41b-ab73b10b1feb",
+      "resource_id": "R005",
+      "project_id": "P005",
+      "month": "2026-10",
+      "hours": 40,
+      "actual": null,
+      "notes": ""
+    },
+    {
+      "id": "290e8c99-51a4-48f8-abd9-0276c4b4f7f1",
+      "resource_id": "R015",
+      "project_id": "P005",
+      "month": "2026-10",
+      "hours": 160,
+      "actual": null,
+      "notes": ""
+    }
+  ],
+  "capacity_adjustments": [],
+  "settings": [
+    {
+      "id": "default",
+      "default_rate": 145
+    }
+  ],
+  "weekly_allocations": [
+    {
+      "id": "1189e419-2a92-486c-84fa-7c045677ab7b",
+      "resource_id": "R003",
+      "project_id": "3c35cec2-5df5-4582-ae6c-bf8f26396c16",
+      "week": "2026-09-28",
+      "hours": 2,
+      "actual": null,
+      "notes": ""
+    },
+    {
+      "id": "5d449489-ce41-4998-9b28-b2c542853eac",
+      "resource_id": "R003",
+      "project_id": "P002",
+      "week": "2026-09-28",
+      "hours": 10.75,
+      "actual": null,
+      "notes": ""
+    },
+    {
+      "id": "80850da3-67a3-40c6-9397-cbcc210c49b3",
+      "resource_id": "R004",
+      "project_id": "P002",
+      "week": "2026-09-28",
+      "hours": 17.75,
+      "actual": null,
+      "notes": ""
+    },
+    {
+      "id": "ddaf111c-e751-4be8-9dff-e032ee575837",
+      "resource_id": "R005",
+      "project_id": "P002",
+      "week": "2026-09-28",
+      "hours": 13.75,
+      "actual": null,
+      "notes": ""
+    },
+    {
+      "id": "ddf1cfec-78e4-4dc0-b9a4-4f4319aa157d",
+      "resource_id": "R006",
+      "project_id": "P002",
+      "week": "2026-09-28",
+      "hours": 13.75,
+      "actual": null,
+      "notes": ""
+    },
+    {
+      "id": "1bdc7f40-5432-4146-b865-97ff2a0d0092",
+      "resource_id": "R010",
+      "project_id": "3c35cec2-5df5-4582-ae6c-bf8f26396c16",
+      "week": "2026-09-28",
+      "hours": 1,
+      "actual": null,
+      "notes": ""
+    },
+    {
+      "id": "a15d2a11-d15d-41a2-ac37-9ccf21855dd1",
+      "resource_id": "R014",
+      "project_id": "432afd08-5446-4d9b-99e8-d7c51e6292c5",
+      "week": "2026-09-28",
+      "hours": 20,
+      "actual": null,
+      "notes": ""
+    },
+    {
+      "id": "26fc1f88-3f8b-4cdc-a9bf-925324794824",
+      "resource_id": "R016",
+      "project_id": "3c35cec2-5df5-4582-ae6c-bf8f26396c16",
+      "week": "2026-09-28",
+      "hours": 1.5,
+      "actual": null,
+      "notes": ""
+    },
+    {
+      "id": "24f1c49b-f98d-4807-920e-719630e469bc",
+      "resource_id": "R001",
+      "project_id": "3c35cec2-5df5-4582-ae6c-bf8f26396c16",
+      "week": "2026-10-05",
+      "hours": 16.5,
+      "actual": null,
+      "notes": "Source: KnowERP_Utilization_WE 10102026.xlsx; week ending 2026-10-09.\n3 - 1 Hour Working Sessions to cover the last of the topics (3 hrs)\nWrite Up of Topics covered WE 10/2/2026 (12 hrs)\nInternal Review and Sign Off of Recommendations (1 hrs)\nDaily Stand Up's (0.5 hrs)"
+    },
+    {
+      "id": "ab3cf576-83bf-4684-b8bc-0d58cdf96562",
+      "resource_id": "R001",
+      "project_id": "P004",
+      "week": "2026-10-05",
+      "hours": 7.75,
+      "actual": null,
+      "notes": "Source: KnowERP_Utilization_WE 10102026.xlsx; week ending 2026-10-09.\nFDD's - Expected back from the Client no later than 10/8/2026 - Anticipating Follow-up (1 hrs)\nRequirements for Project - Tuesday (1 hrs)\nRequirements for Service - Tuesday (1 hrs)\nDraft & Internal review and sign off FDD for Project - Thursday (1 hrs)\nDraft & Internal review and sign off FDD for Service - Thursday (1 hrs)\nBlue Bison - Integration TDD (1 hrs)\nDaily Stand Up's (1.25 hrs)\nPrep and Attend Client Status Meeting (0.5 hrs)"
+    },
+    {
+      "id": "c01d17d9-fd33-4746-a01b-0380343d2091",
+      "resource_id": "R002",
+      "project_id": "a33366e8-5877-4fb3-b808-c04dd1808fb7",
+      "week": "2026-10-05",
+      "hours": 3,
+      "actual": null,
+      "notes": "Source: KnowERP_Utilization_WE 10102026.xlsx; week ending 2026-10-09.\nInternal Review of Write and Compile Estimate (1 hrs)\nPM (2 hrs)"
+    },
+    {
+      "id": "e56809a1-c034-45f6-ad17-9bb105df7269",
+      "resource_id": "R003",
+      "project_id": "3c35cec2-5df5-4582-ae6c-bf8f26396c16",
+      "week": "2026-10-05",
+      "hours": 2,
+      "actual": null,
+      "notes": "Source: KnowERP_Utilization_WE 10102026.xlsx; week ending 2026-10-09.\nWrite Up of Topics covered WE 10/2/2026 (2 hrs)"
+    },
+    {
+      "id": "f5e76d94-0024-4e50-a898-400c088ccf8f",
+      "resource_id": "R003",
+      "project_id": "P001",
+      "week": "2026-10-05",
+      "hours": 3.25,
+      "actual": null,
+      "notes": "Source: KnowERP_Utilization_WE 10102026.xlsx; week ending 2026-10-09.\nDaily Stand Up's (1.25 hrs)\nPrep and Attend Client Status Meeting (2 hrs)"
+    },
+    {
+      "id": "c57f99ce-f42b-431f-bad2-65ccdee093f0",
+      "resource_id": "R003",
+      "project_id": "P002",
+      "week": "2026-10-05",
+      "hours": 10.25,
+      "actual": null,
+      "notes": "Source: KnowERP_Utilization_WE 10102026.xlsx; week ending 2026-10-09.\nCut Over Planning (4 hrs)\nDaily Stand Up's (1.25 hrs)\nPrep and Attend Client Status Meeting (2 hrs)\nPM Time (3 hrs)"
+    },
+    {
+      "id": "f19c72e0-ad65-4595-9d0e-942071016381",
+      "resource_id": "R003",
+      "project_id": "P004",
+      "week": "2026-10-05",
+      "hours": 8,
+      "actual": null,
+      "notes": "Source: KnowERP_Utilization_WE 10102026.xlsx; week ending 2026-10-09.\nPrep and Attend Client Status Meeting (2 hrs)\nPM Time (6 hrs)"
+    },
+    {
+      "id": "a35c7c71-20af-4a3d-9391-6d716911f12f",
+      "resource_id": "R003",
+      "project_id": "P005",
+      "week": "2026-10-05",
+      "hours": 7.25,
+      "actual": null,
+      "notes": "Source: KnowERP_Utilization_WE 10102026.xlsx; week ending 2026-10-09.\nDialy Stand Ups (1.25 hrs)\nPrep and Attend Client Status Meeting (2 hrs)\nPM Time (4 hrs)"
+    },
+    {
+      "id": "aac94c04-3b8b-4f9b-ae60-150b7fabda69",
+      "resource_id": "R003",
+      "project_id": "P008",
+      "week": "2026-10-05",
+      "hours": 5.25,
+      "actual": null,
+      "notes": "Source: KnowERP_Utilization_WE 10102026.xlsx; week ending 2026-10-09.\nDaily Stand Ups (1.25 hrs)\nPrep and Attend Client Status Meeting (2 hrs)\nPM Time (2 hrs)"
+    },
+    {
+      "id": "75f7018f-cbf1-4d26-84cc-b8362e48669d",
+      "resource_id": "R003",
+      "project_id": "P009",
+      "week": "2026-10-05",
+      "hours": 4.25,
+      "actual": null,
+      "notes": "Source: KnowERP_Utilization_WE 10102026.xlsx; week ending 2026-10-09.\nIssue Resolution (2 hrs)\nDaily Stand Ups (1.25 hrs)\nPM - Status Report (1 hrs)"
+    },
+    {
+      "id": "52dac3bc-04c8-44e8-b2d0-bfb080bfd7da",
+      "resource_id": "R003",
+      "project_id": "a33366e8-5877-4fb3-b808-c04dd1808fb7",
+      "week": "2026-10-05",
+      "hours": 5,
+      "actual": null,
+      "notes": "Source: KnowERP_Utilization_WE 10102026.xlsx; week ending 2026-10-09.\nVicky to write-up phase 2 from the recorded session (2 hrs)\nInternal Review of Write and Compile Estimate (2 hrs)\nPM (1 hrs)"
+    },
+    {
+      "id": "fdeb1ae7-6f8f-492f-8388-33fb64f558e7",
+      "resource_id": "R003",
+      "project_id": "import-advanced-turf-20261005",
+      "week": "2026-10-05",
+      "hours": 3,
+      "actual": null,
+      "notes": "Source: KnowERP_Utilization_WE 10102026.xlsx; week ending 2026-10-09.\nInternal Review Meeting (1 hrs)\nClient Review Meeting and Sign Off (2 hrs)"
+    },
+    {
+      "id": "ab33c1e5-28f3-418e-8588-bdec96f3d003",
+      "resource_id": "R004",
+      "project_id": "P002",
+      "week": "2026-10-05",
+      "hours": 17.75,
+      "actual": null,
+      "notes": "Source: KnowERP_Utilization_WE 10102026.xlsx; week ending 2026-10-09.\nBug - Functional Testing (4 hrs)\nPunchlist Item Resolution (8 hrs)\nCut Over Planning (4 hrs)\nDaily Stand Up's (1.25 hrs)\nPrep and Attend Client Status Meeting (0.5 hrs)"
+    },
+    {
+      "id": "1b0ad5ae-fcbf-44f0-a97d-52c9df820558",
+      "resource_id": "R004",
+      "project_id": "P004",
+      "week": "2026-10-05",
+      "hours": 20.75,
+      "actual": null,
+      "notes": "Source: KnowERP_Utilization_WE 10102026.xlsx; week ending 2026-10-09.\nFDD's - Expected back from the Client no later than 10/8/2026 - Anticipating Follow-up (1 hrs)\nRequirements for Project - Tuesday (1 hrs)\nRequirements for Service - Tuesday (1 hrs)\nDraft & Internal review and sign off FDD for Project - Thursday (3 hrs)\nDraft & Internal review and sign off FDD for Service - Thursday (3 hrs)\nBlue Bison - Integration TDD (2 hrs)\nPrepare UAT Scripts (8 hrs)\nDaily Stand Up's (1.25 hrs)\nPrep and Attend Client Status Meeting (0.5 hrs)"
+    },
+    {
+      "id": "17716a7c-2f2d-4fa6-88b4-5d850bbf1ea9",
+      "resource_id": "R005",
+      "project_id": "P002",
+      "week": "2026-10-05",
+      "hours": 13.75,
+      "actual": null,
+      "notes": "Source: KnowERP_Utilization_WE 10102026.xlsx; week ending 2026-10-09.\nPunchlist Item Resolution (8 hrs)\nCut Over Planning (4 hrs)\nDaily Stand Up's (1.25 hrs)\nPrep and Attend Client Status Meeting (0.5 hrs)"
+    },
+    {
+      "id": "feace5bd-2b76-46af-be58-c6185a03f885",
+      "resource_id": "R005",
+      "project_id": "P005",
+      "week": "2026-10-05",
+      "hours": 9.25,
+      "actual": null,
+      "notes": "Source: KnowERP_Utilization_WE 10102026.xlsx; week ending 2026-10-09.\nValidate 2024, 2025 and 2026 data is ready for Client Review (4 hrs)\nValidate the entire BC Environment is ready for UAT (2 hrs)\nUAT with the Client and Sign Off (2 hrs)\nDialy Stand Ups (1.25 hrs)"
+    },
+    {
+      "id": "df4153f4-520e-42f8-a2fe-b60eddee792b",
+      "resource_id": "R005",
+      "project_id": "P008",
+      "week": "2026-10-05",
+      "hours": 2.75,
+      "actual": null,
+      "notes": "Source: KnowERP_Utilization_WE 10102026.xlsx; week ending 2026-10-09.\nWorking session - Sign off on CRP; Review Cut Over Plan (1 hrs)\nDaily Stand Ups (1.25 hrs)\nPrep and Attend Client Status Meeting (0.5 hrs)"
+    },
+    {
+      "id": "194702e2-4d8d-4921-917b-c7ca405c562d",
+      "resource_id": "R006",
+      "project_id": "P001",
+      "week": "2026-10-05",
+      "hours": 6.25,
+      "actual": null,
+      "notes": "Source: KnowERP_Utilization_WE 10102026.xlsx; week ending 2026-10-09.\nDraft Agenda for this weeks Working Session on PO and SO (1 hrs)\nAttend Working Session with Client (1 hrs)\nBegin drafting FDD from the PO and SO working session (2 hrs)\nDaily Stand Up's (1.25 hrs)\nPrep and Attend Client Status Meeting (1 hrs)"
+    },
+    {
+      "id": "9ed4df87-5f7f-4d1e-ad16-baae81e2bcc7",
+      "resource_id": "R006",
+      "project_id": "P002",
+      "week": "2026-10-05",
+      "hours": 13.75,
+      "actual": null,
+      "notes": "Source: KnowERP_Utilization_WE 10102026.xlsx; week ending 2026-10-09.\nPunchlist Item Resolution (8 hrs)\nCut Over Planning (4 hrs)\nDaily Stand Up's (1.25 hrs)\nPrep and Attend Client Status Meeting (0.5 hrs)"
+    },
+    {
+      "id": "35e95d15-0a34-4488-ad34-1fe86e4f10d0",
+      "resource_id": "R010",
+      "project_id": "3c35cec2-5df5-4582-ae6c-bf8f26396c16",
+      "week": "2026-10-05",
+      "hours": 1,
+      "actual": null,
+      "notes": "Source: KnowERP_Utilization_WE 10102026.xlsx; week ending 2026-10-09.\nInternal Review and Sign Off of Recommendations (1 hrs)"
+    },
+    {
+      "id": "dada2357-7d76-4b7d-9cb7-b9a357779f87",
+      "resource_id": "R010",
+      "project_id": "P005",
+      "week": "2026-10-05",
+      "hours": 2,
+      "actual": null,
+      "notes": "Source: KnowERP_Utilization_WE 10102026.xlsx; week ending 2026-10-09.\nUAT with the Client and Sign Off (2 hrs)"
+    },
+    {
+      "id": "6e88778b-2552-4639-bf2d-49d183eb6440",
+      "resource_id": "R010",
+      "project_id": "a33366e8-5877-4fb3-b808-c04dd1808fb7",
+      "week": "2026-10-05",
+      "hours": 1,
+      "actual": null,
+      "notes": "Source: KnowERP_Utilization_WE 10102026.xlsx; week ending 2026-10-09.\nInternal Review of Write and Compile Estimate (1 hrs)"
+    },
+    {
+      "id": "d1b463d3-911d-4537-997e-40e3779a20b0",
+      "resource_id": "R010",
+      "project_id": "import-advanced-turf-20261005",
+      "week": "2026-10-05",
+      "hours": 1,
+      "actual": null,
+      "notes": "Source: KnowERP_Utilization_WE 10102026.xlsx; week ending 2026-10-09.\nInternal Review Meeting (1 hrs)"
+    },
+    {
+      "id": "81497083-ee6a-4802-afb7-4c18e6120e48",
+      "resource_id": "R011",
+      "project_id": "a33366e8-5877-4fb3-b808-c04dd1808fb7",
+      "week": "2026-10-05",
+      "hours": 2,
+      "actual": null,
+      "notes": "Source: KnowERP_Utilization_WE 10102026.xlsx; week ending 2026-10-09.\nInternal Review of Write and Compile Estimate (2 hrs)"
+    },
+    {
+      "id": "e42f2b8d-946b-4ee2-932c-ea7c60781a21",
+      "resource_id": "R014",
+      "project_id": "432afd08-5446-4d9b-99e8-d7c51e6292c5",
+      "week": "2026-10-05",
+      "hours": 11.5,
+      "actual": null,
+      "notes": "Source: KnowERP_Utilization_WE 10102026.xlsx; week ending 2026-10-09.\nKickoff with Internal Team (0.5 hrs)\nCoordinate Working Sessions - Collaborate on Agenda and Emails to Client to Schedule (1 hrs)\nPrep and Attend Working Sessions (6 hrs)\nBegin to draft Assessment Documents from Working session (4 hrs)"
+    },
+    {
+      "id": "1fec671e-0ee2-4603-bbb0-8e8f942ccc5c",
+      "resource_id": "R014",
+      "project_id": "P005",
+      "week": "2026-10-05",
+      "hours": 13.25,
+      "actual": null,
+      "notes": "Source: KnowERP_Utilization_WE 10102026.xlsx; week ending 2026-10-09.\nComplete User and Access Setup in Sandbox (4 hrs)\nValidate 2024, 2025 and 2026 data is ready for Client Review (4 hrs)\nValidate the entire BC Environment is ready for UAT (2 hrs)\nUAT with the Client and Sign Off (2 hrs)\nDialy Stand Ups (1.25 hrs)"
+    },
+    {
+      "id": "5d04defc-b05b-4945-bd3e-20efc2f102df",
+      "resource_id": "R014",
+      "project_id": "import-advanced-turf-20261005",
+      "week": "2026-10-05",
+      "hours": 19,
+      "actual": null,
+      "notes": "Source: KnowERP_Utilization_WE 10102026.xlsx; week ending 2026-10-09.\nSnowflake Requirements and TDD (16 hrs)\nInternal Review Meeting (1 hrs)\nClient Review Meeting and Sign Off (2 hrs)"
+    },
+    {
+      "id": "0120dbe4-f210-459c-9c52-f7065f9bdb01",
+      "resource_id": "R015",
+      "project_id": "P008",
+      "week": "2026-10-05",
+      "hours": 2.75,
+      "actual": null,
+      "notes": "Source: KnowERP_Utilization_WE 10102026.xlsx; week ending 2026-10-09.\nWorking session - Sign off on CRP; Review Cut Over Plan (1 hrs)\nDaily Stand Ups (1.25 hrs)\nPrep and Attend Client Status Meeting (0.5 hrs)"
+    },
+    {
+      "id": "f3e4ac32-bd79-4816-9e99-56f433621894",
+      "resource_id": "R015",
+      "project_id": "P009",
+      "week": "2026-10-05",
+      "hours": 34.25,
+      "actual": null,
+      "notes": "Source: KnowERP_Utilization_WE 10102026.xlsx; week ending 2026-10-09.\nIssue Resolution (32 hrs)\nDaily Stand Ups (1.25 hrs)\nPM - Status Report (1 hrs)"
+    },
+    {
+      "id": "fbfcd9a4-c34b-40f1-865a-ec716aafefec",
+      "resource_id": "R016",
+      "project_id": "3c35cec2-5df5-4582-ae6c-bf8f26396c16",
+      "week": "2026-10-05",
+      "hours": 1.5,
+      "actual": null,
+      "notes": "Source: KnowERP_Utilization_WE 10102026.xlsx; week ending 2026-10-09.\nInternal Review and Sign Off of Recommendations (1 hrs)\nDaily Stand Up's (0.5 hrs)"
+    },
+    {
+      "id": "d88349ec-4ba7-4e7b-b33a-1ff49870fade",
+      "resource_id": "R016",
+      "project_id": "432afd08-5446-4d9b-99e8-d7c51e6292c5",
+      "week": "2026-10-05",
+      "hours": 4.5,
+      "actual": null,
+      "notes": "Source: KnowERP_Utilization_WE 10102026.xlsx; week ending 2026-10-09.\nSetup the project in Planner (1 hrs)\nKickoff with Internal Team (1 hrs)\nCoordinate Working Sessions - Collaborate on Agenda and Emails to Client to Schedule (1 hrs)\nDaily Stand Ups (0.5 hrs)\nPM - Status Report (1 hrs)"
+    },
+    {
+      "id": "58480678-14b4-49c3-b894-224d53fb9d03",
+      "resource_id": "R018",
+      "project_id": "P002",
+      "week": "2026-10-05",
+      "hours": 12,
+      "actual": null,
+      "notes": "Source: KnowERP_Utilization_WE 10102026.xlsx; week ending 2026-10-09.\nBug - Assessment (4 hrs)\nBug - Fix and Technical Testing (8 hrs)"
+    },
+    {
+      "id": "dd81e612-7e28-4187-95f2-85f354c34500",
+      "resource_id": "import-resource-kartheek",
+      "project_id": "P008",
+      "week": "2026-10-05",
+      "hours": 1.75,
+      "actual": null,
+      "notes": "Source: KnowERP_Utilization_WE 10102026.xlsx; week ending 2026-10-09.\nDaily Stand Ups (1.25 hrs)\nPrep and Attend Client Status Meeting (0.5 hrs)"
+    },
+    {
+      "id": "9c85132a-d681-499c-9890-852be7c968b1",
+      "resource_id": "import-resource-vikrant",
+      "project_id": "P001",
+      "week": "2026-10-05",
+      "hours": 4.25,
+      "actual": null,
+      "notes": "Source: KnowERP_Utilization_WE 10102026.xlsx; week ending 2026-10-09.\nDraft Agenda for this weeks Working Session on PO and SO (1 hrs)\nAttend Working Session with Client (1 hrs)\nDaily Stand Up's (1.25 hrs)\nPrep and Attend Client Status Meeting (1 hrs)"
+    }
+  ]
+}
