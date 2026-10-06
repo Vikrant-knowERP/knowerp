@@ -1,15 +1,26 @@
 import { Pool } from 'pg';
 import { withWeeklyAllocations, type Data } from '../lib/planner';
 
-const pool = new Pool({
-  connectionString: process.env.DATABASE_URL,
-  ssl: process.env.NODE_ENV === 'production'
-    ? { rejectUnauthorized: false }
-    : false,
-  max: 5,
-  idleTimeoutMillis: 30000,
-  connectionTimeoutMillis: 5000,
-});
+let pool: Pool | null = null;
+
+function getPool(): Pool {
+  if (!pool) {
+    const url = process.env.DATABASE_URL;
+    if (!url) {
+      throw new Error('DATABASE_URL not set');
+    }
+    pool = new Pool({
+      connectionString: url,
+      ssl: process.env.NODE_ENV === 'production'
+        ? { rejectUnauthorized: false }
+        : false,
+      max: 5,
+      idleTimeoutMillis: 30000,
+      connectionTimeoutMillis: 5000,
+    });
+  }
+  return pool;
+}
 
 function convertSqlPlaceholders(sql: string): string {
   let paramIndex = 1;
@@ -19,15 +30,15 @@ function convertSqlPlaceholders(sql: string): string {
 function createQueryMethods(pgSql: string, params: any[] = []) {
   return {
     run: async () => {
-      const result = await pool.query(pgSql, params);
+      const result = await getPool().query(pgSql, params);
       return result;
     },
     first: async <T = any>() => {
-      const result = await pool.query(pgSql, params);
+      const result = await getPool().query(pgSql, params);
       return result.rows[0] as T | undefined;
     },
     all: async <T = any>() => {
-      const result = await pool.query(pgSql, params);
+      const result = await getPool().query(pgSql, params);
       return { results: result.rows as T[] };
     }
   };
@@ -43,7 +54,7 @@ export function database() {
       };
     },
     batch: async (statements: any[]) => {
-      const client = await pool.connect();
+      const client = await getPool().connect();
       try {
         await client.query('BEGIN');
         for (const stmt of statements) {
